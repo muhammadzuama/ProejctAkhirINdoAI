@@ -1,0 +1,257 @@
+[
+  {
+    "id": "1",
+    "question": "Apa yang dimaksud dengan Pelayanan Kesehatan Rujukan Tingkat Lanjutan?",
+    "answer": "Pelayanan Kesehatan Rujukan Tingkat Lanjutan adalah upaya pelayanan kesehatan perorangan yang bersifat spesialistik atau sub spesialistik yang meliputi rawat jalan tingkat lanjutan, rawat inap tingkat lanjutan, dan rawat inap di ruang perawatan khusus."
+  },
+  {
+    "id": "2",
+    "question": "Apa yang dimaksud dengan Fasilitas Kesehatan Rujukan Tingkat Lanjutan (FKRTL)?",
+    "answer": "Fasilitas Kesehatan Rujukan Tingkat Lanjutan (FKRTL) adalah fasilitas kesehatan yang melakukan pelayanan kesehatan perorangan yang bersifat spesialistik atau sub spesialistik, mencakup rawat jalan tingkat lanjutan, rawat inap tingkat lanjutan, dan rawat inap di ruang perawatan khusus."
+  },
+  {
+    "id": "3",
+    "question": "Apa yang dimaksud dengan Fasilitas Kesehatan Tingkat Pertama (FKTP)?",
+    "answer": "Fasilitas Kesehatan Tingkat Pertama (FKTP) adalah fasilitas kesehatan yang menyelenggarakan pelayanan kesehatan perorangan bersifat non spesialistik untuk keperluan observasi, promotif, preventif, diagnosis, perawatan, pengobatan, dan/atau pelayanan kesehatan lainnya."
+  },
+  {
+    "id": "4",
+    "question": "Apa yang dimaksud dengan Fasilitas Kesehatan?",
+    "answer": "Fasilitas kesehatan adalah fasilitas pelayanan kesehatan yang digunakan untuk menyelenggarakan upaya pelayanan kesehatan perorangan, baik promotif, preventif, kuratif, maupun rehabilitatif, yang diselenggarakan oleh Pemerintah, Pemerintah Daerah, dan/atau masyarakat."
+  },
+  {
+    "id": "5",
+    "question": "Apa yang dimaksud dengan Asuransi Kesehatan Tambahan?",
+    "answer": "Asuransi kesehatan tambahan adalah asuransi kesehatan komersial yang dibeli secara sukarela di luar asuransi kesehatan sosial yang bersifat wajib."
+  },
+  {
+    "id": "6",
+    "question": "Apa yang dimaksud dengan Close Payment System?",
+    "answer": "Close Payment System atau sistem pembayaran tertutup adalah mekanisme pembayaran iuran Peserta Pekerja Penerima Upah Badan Usaha (PPU BU) BPJS Kesehatan, yang memastikan transaksi pembayaran iuran hanya dapat dilakukan jika besaran iuran yang dibayarkan sama dengan tagihan atau kelipatannya."
+  },
+  {
+    "id": "7",
+    "question": "Apa yang dimaksud dengan Formularium Nasional?",
+    "answer": "Formularium Nasional adalah daftar obat yang disusun oleh komite nasional yang ditetapkan oleh Menteri Kesehatan, didasarkan pada bukti ilmiah mutakhir, berkhasiat, aman, dan dengan harga terjangkau, yang digunakan sebagai acuan penggunaan obat dalam Jaminan Kesehatan Nasional."
+  },
+  {
+    "id": "8",
+    "question": "Apa yang dimaksud dengan Alat Kesehatan?",
+    "answer": "Alat Kesehatan adalah instrumen, aparatus, mesin, dan/atau implan yang tidak mengandung obat, digunakan untuk mencegah, mendiagnosa, menyembuhkan, dan meringankan penyakit, merawat orang sakit, memulihkan kesehatan, serta membentuk struktur dan memperbaiki fungsi tubuh manusia."
+  },
+  {
+    "id": "9",
+    "question": "Apa yang dimaksud dengan Pelayanan Kesehatan Darurat Medis?",
+    "answer": "Pelayanan Kesehatan Darurat Medis adalah pelayanan kesehatan yang harus diberikan secepatnya untuk mencegah kematian, keparahan, dan/atau kecacatan sesuai dengan kemampuan fasilitas kesehatan."
+  },
+  {
+    "id": "10",
+    "question": "Apa yang dimaksud dengan Rawat Inap Tingkat Pertama?",
+    "answer": "Rawat Inap Tingkat Pertama adalah pelayanan kesehatan perorangan bersifat non spesialistik yang dilaksanakan di fasilitas kesehatan tingkat pertama untuk observasi, perawatan, diagnosis, pengobatan, dan/atau pelayanan medis lainnya, dengan durasi rawat inap minimal 1 (satu) hari."
+  },
+  {
+    "id": "11",
+    "question": "Apa yang dimaksud dengan Rawat Jalan Tingkat Pertama?",
+    "answer": "Rawat Jalan Tingkat Pertama adalah pelayanan kesehatan perorangan bersifat non spesialistik yang dilaksanakan di fasilitas kesehatan tingkat pertama untuk keperluan observasi, diagnosis, pengobatan, dan/atau pelayanan kesehatan lainnya."
+  },
+  {
+    "id": "12",
+    "question": "Apa yang dimaksud dengan Pelayanan Kesehatan Tingkat Pertama?",
+    "answer": "Pelayanan Kesehatan Tingkat Pertama adalah pelayanan kesehatan perorangan yang bersifat non spesialistik (primer), mencakup pelayanan rawat jalan dan rawat inap."
+  },
+  {
+    "id": "13",
+    "question": "Apa yang dimaksud dengan Kecurangan (Fraud) dalam Program Jaminan Kesehatan Nasional?",
+    "answer": "Kecurangan (Fraud) adalah tindakan yang dilakukan dengan sengaja untuk mendapatkan keuntungan finansial dari program Jaminan Kesehatan Nasional melalui perbuatan curang yang tidak sesuai dengan ketentuan."
+  },
+  {
+    "id": "14",
+    "question": "Apa yang dimaksud dengan Kartu Indonesia Sehat?",
+    "answer": "Kartu Indonesia Sehat adalah tanda kepesertaan Jaminan Kesehatan Nasional (JKN) untuk memperoleh pelayanan kesehatan yang komprehensif di Fasilitas Kesehatan."
+  },
+  {
+    "id": "15",
+    "question": "Siapa saja anggota keluarga yang termasuk dalam Peserta Pekerja Bukan Penerima Upah?",
+    "answer": "Anggota keluarga yang lain bagi Peserta Pekerja Bukan Penerima Upah adalah anggota keluarga yang tercantum dalam Kartu Keluarga dan didaftarkan menjadi peserta, termasuk anak, istri/suami, dan lainnya yang sah secara hukum."
+  },
+  {
+    "id": "16",
+    "question": "Siapa saja anggota keluarga yang termasuk dalam Peserta Pekerja Penerima Upah?",
+    "answer": "Anggota keluarga yang lain bagi Peserta Pekerja Penerima Upah meliputi anak ke-4 dan seterusnya, ayah, ibu, dan mertua."
+  },
+  {
+    "id": "17",
+    "question": "Siapa saja yang termasuk dalam Anggota Keluarga menurut BPJS Kesehatan?",
+    "answer": "Anggota Keluarga adalah istri/suami yang sah, anak kandung, anak tiri dari perkawinan yang sah, dan anak angkat yang sah."
+  },
+  {
+    "id": "18",
+    "question": "Apa yang dimaksud dengan Badan Usaha?",
+    "answer": "Badan usaha adalah setiap bentuk usaha yang bersifat tetap dan terus menerus, didirikan, bekerja, dan berkedudukan di wilayah Negara Kesatuan Republik Indonesia untuk tujuan memperoleh keuntungan atau laba, termasuk badan hukum lainnya."
+  },
+  {
+    "id": "19",
+    "question": "Apa yang dimaksud dengan Virtual Account (VA)?",
+    "answer": "Virtual Account (VA) adalah nomor rekening virtual yang disediakan oleh BPJS Kesehatan untuk entitas atau perorangan sebagai rekening tujuan dalam pembayaran iuran jaminan kesehatan."
+  },
+  {
+    "id": "20",
+    "question": "Apa yang dimaksud dengan Upah atau Gaji?",
+    "answer": "Upah atau gaji adalah hak pekerja yang diterima dalam bentuk uang sebagai imbalan dari pemberi kerja, ditetapkan dan dibayar berdasarkan perjanjian kerja, kesepakatan, atau peraturan perundang-undangan, termasuk tunjangan bagi pekerja dan keluarganya."
+  },
+  {
+    "id": "21",
+    "question": "Siapa yang dimaksud dengan Pemberi Kerja?",
+    "answer": "Pemberi Kerja adalah orang perseorangan, pengusaha, badan hukum, atau badan lain yang mempekerjakan tenaga kerja, atau penyelenggara negara yang mempekerjakan pegawai negeri dengan membayar gaji, upah, atau imbalan dalam bentuk lainnya."
+  },
+  {
+    "id": "22",
+    "question": "Siapa yang dimaksud dengan Bukan Pekerja?",
+    "answer": "Bukan Pekerja adalah setiap orang yang tidak termasuk dalam kategori masyarakat yang didaftarkan dan iurannya dibayar oleh Pemerintah, PPU, atau PBPU. Terdiri dari: BP Penyelenggara Negara (seperti penerima pensiun, veteran) dan BP Non Penyelenggara Negara (seperti investor, pemberi kerja, dan individu mampu lainnya)."
+  },
+  {
+    "id": "23",
+    "question": "Siapa yang dimaksud dengan Pekerja Penerima Upah?",
+    "answer": "Pekerja Penerima Upah adalah setiap orang yang bekerja pada pemberi kerja dengan menerima gaji atau upah, seperti PNS, TNI, POLRI, pejabat negara, pegawai swasta, dan pekerja lain yang menerima upah."
+  },
+  {
+    "id": "24",
+    "question": "Siapa yang dimaksud dengan Pekerja Bukan Penerima Upah?",
+    "answer": "Pekerja Bukan Penerima Upah adalah setiap orang yang bekerja atau berusaha atas risiko sendiri, seperti notaris, dokter praktik swasta, pedagang, petani, nelayan, sopir, ojek, montir, dan pekerja lain yang mampu membayar iuran."
+  },
+  {
+    "id": "25",
+    "question": "Apa yang dimaksud dengan Pekerja?",
+    "answer": "Pekerja adalah setiap orang yang bekerja dengan menerima gaji, upah, atau imbalan dalam bentuk lain."
+  },
+  {
+    "id": "26",
+    "question": "Siapa yang dimaksud dengan Peserta?",
+    "answer": "Peserta adalah seluruh penduduk Indonesia, termasuk orang asing yang telah bekerja paling singkat 6 bulan di Indonesia dan telah membayar iuran JKN."
+  },
+  {
+    "id": "27",
+    "question": "Apa yang dimaksud dengan Iuran Jaminan Kesehatan?",
+    "answer": "Iuran Jaminan Kesehatan adalah sejumlah uang yang dibayarkan secara teratur oleh Peserta, Pemberi Kerja, dan/atau Pemerintah untuk program Jaminan Kesehatan Nasional."
+  },
+  {
+    "id": "28",
+    "question": "Apa yang dimaksud dengan BPJS Kesehatan?",
+    "answer": "BPJS Kesehatan adalah badan hukum yang dibentuk untuk menyelenggarakan program Jaminan Kesehatan Nasional-Kartu Indonesia Sehat (JKN-KIS), yang memberikan perlindungan kesehatan bagi setiap orang yang telah membayar iuran atau iurannya dibayarkan oleh Pemerintah."
+  },
+  {
+    "id": "29",
+    "question": "Berapa besaran iuran untuk Peserta PBI?",
+    "answer": "Iuran untuk Peserta Penerima Bantuan Iuran (PBI) dibayarkan oleh pemerintah sebesar Rp42.000,00 per orang per bulan."
+  },
+  {
+    "id": "30",
+    "question": "Bagaimana jika saat registrasi Badan Usaha tidak menerima link aktivasi di email yang terdaftar?",
+    "answer": "PIC (Penanggung Jawab Informasi dan Koordinasi) Badan Usaha harus menghubungi kantor BPJS Kesehatan sesuai wilayah perusahaan terdaftar agar link aktivasi dikirim ulang ke email badan usaha."
+  },
+  {
+    "id": "31",
+    "question": "Bagaimana cara pendaftaran Peserta Pekerja Penerima Upah (PPU)?",
+    "answer": "Peserta Pekerja Penerima Upah didaftarkan oleh perusahaan, badan, atau instansi tempat mereka bekerja."
+  },
+  {
+    "id": "32",
+    "question": "Apa saja kewajiban Pemberi Kerja terhadap program JKN-KIS?",
+    "answer": "Kewajiban Pemberi Kerja meliputi: (1) Mendaftarkan diri dan pekerjanya sebagai peserta JKN-KIS ke BPJS Kesehatan; (2) Menghitung dan memungut iuran dari pekerja melalui pemotongan gaji/upah; (3) Membayar dan menyetorkan iuran setiap bulan sebelum tanggal 10; (4) Memberikan data diri, pekerja, dan anggota keluarganya secara lengkap dan benar."
+  },
+  {
+    "id": "33",
+    "question": "Apa saja hak yang dimiliki oleh Peserta JKN-KIS?",
+    "answer": "Hak peserta meliputi: (1) Mendapatkan kartu identitas peserta sebagai tanda kepesertaan JKN-KIS; (2) Memperoleh manfaat dan informasi tentang hak, kewajiban, serta prosedur pelayanan kesehatan; (3) Mendapatkan pelayanan kesehatan di fasilitas kesehatan yang bekerja sama dengan BPJS Kesehatan; (4) Menyampaikan pengaduan, kritik, dan saran secara lisan atau tertulis kepada BPJS Kesehatan."
+  },
+  {
+    "id": "34",
+    "question": "Apakah Jam operasional layanan peserta di Kantor Cabang BPJS Kesehatan berbeda selama bulan Ramadan 1445H?",
+    "answer": "Jam operasional layanan peserta di Kantor Cabang selama bulan Ramadan dilaksanakan pada pukul 08.00-13.30 waktu setempat."
+  },
+  {
+    "id": "35",
+    "question": "Apakah kartu BPJS Kesehatan yang rusak bisa diganti?",
+    "answer": "Ya, kartu BPJS Kesehatan yang rusak bisa diganti dengan membawa kartu lama dan dokumen identitas (KTP atau Kartu Keluarga) ke kantor BPJS Kesehatan terdekat, Mobile Customer Service, atau Mall Pelayanan Publik."
+  },
+  {
+    "id": "36",
+    "question": "Bagaimana cara mendaftar sebagai pengguna aplikasi Mobile JKN?",
+    "answer": "Untuk mendaftar sebagai pengguna aplikasi Mobile JKN, buka aplikasi, pilih opsi DAFTAR, lalu pilih menu Pendaftaran Pengguna Mobile. Masukkan nomor kartu BPJS, nomor handphone, dan password, kemudian klik 'Register' untuk menyelesaikan proses registrasi."
+  },
+  {
+    "id": "37",
+    "question": "Bagaimana cara mendownload aplikasi Mobile JKN?",
+    "answer": "Aplikasi Mobile JKN dapat diunduh dengan membuka Google Play Store (untuk Android) atau App Store (untuk iOS), kemudian cari dan instal aplikasi 'Mobile JKN'. Pastikan aplikasi diunduh dari pengembang resmi BPJS Kesehatan untuk menghindari aplikasi palsu."
+  },
+  {
+    "id": "38",
+    "question": "Bagaimana aturan pendaftaran bayi baru lahir sebagai peserta JKN?",
+    "answer": "Bayi baru lahir dari peserta JKN wajib didaftarkan ke BPJS Kesehatan paling lambat 28 hari sejak lahir. Selama 28 hari pertama, bayi otomatis mendapat jaminan pelayanan kesehatan. Status kepesertaan harus diaktifkan paling lambat 3 hari kerja sejak dirawat (atau lebih cepat jika pulang sebelum 3 hari). Iuran bayi harus dibayarkan paling lambat 28 hari setelah lahir. Jika tidak didaftarkan dalam waktu tersebut, peserta harus membayar iuran sejak lahir dan dikenakan denda. Jika bayi bukan dari peserta JKN, maka berlaku ketentuan pendaftaran sebagai peserta PBPU atau Bukan Pekerja dengan batas waktu 14 hari."
+  },
+  {
+    "id": "39",
+    "question": "Bagaimana cara menonaktifkan kepesertaan BPJS Kesehatan karena keluar negeri?",
+    "answer": "Peserta yang akan tinggal di luar negeri minimal 6 bulan berturut-turut dapat mengajukan penonaktifan sementara kepesertaan melalui Kantor Cabang atau kanal layanan BPJS. Peserta harus melunasi iuran hingga bulan keberangkatan. Syarat yang dibutuhkan antara lain: salinan visa, data anggota keluarga di luar negeri, izin tinggal, surat tugas belajar/kerja, surat penghentian gaji dari pemberi kerja, atau surat dari sponsor."
+  },
+  {
+    "id": "40",
+    "question": "Bagaimana cara mengubah data peserta melalui aplikasi Mobile JKN?",
+    "answer": "Untuk mengubah data peserta melalui aplikasi Mobile JKN, login terlebih dahulu, pilih menu 'Ubah Data Peserta', pilih jenis data yang ingin diubah, lakukan perubahan sesuai kebutuhan, lalu klik 'Simpan'. Setelah itu, masukkan kode verifikasi yang dikirimkan ke nomor handphone terdaftar untuk menyelesaikan proses."
+  },
+  {
+    "id": "41",
+    "question": "Apa yang harus dilakukan jika lupa password aplikasi Mobile JKN?",
+    "answer": "Jika lupa password aplikasi Mobile JKN, pilih menu 'Lupa Password', masukkan nomor kartu BPJS dan nomor handphone terdaftar untuk verifikasi. Setelah itu, buat password baru sesuai standar keamanan aplikasi, lalu klik 'Reset Password' untuk menyelesaikan proses."
+  },
+  {
+    "id": "42",
+    "question": "Di mana saja tempat pendaftaran untuk Peserta Pekerja Penerima Upah (PPU)?",
+    "answer": "Pendaftaran Peserta Pekerja Penerima Upah dapat dilakukan melalui beberapa kanal resmi, yaitu: website BPJS Kesehatan (www.bpjs-kesehatan.go.id), portal bersama BPJS (www.bpjs.go.id), sistem ONLINE SINGLE SUBMISSION (OSS), aplikasi Edabu Mobile (tersedia di Google Play Store dan App Store), atau langsung di Kantor Cabang/Kabupaten/Kota BPJS Kesehatan terdekat."
+  },
+  {
+    "id": "43",
+    "question": "Apa saja persyaratan untuk mendaftarkan Badan Usaha ke Program JKN?",
+    "answer": "Badan Usaha perlu menyiapkan beberapa dokumen dan data, antara lain: nama, alamat, kode pos, dan nomor telepon badan usaha; alamat email; informasi dari dokumen perizinan seperti Surat Izin Usaha, Surat Tanda Daftar Perusahaan (STDP), NPWP Badan, dan dokumen legal lainnya; data identitas pemilik atau kontak person (nama lengkap, jabatan, nomor telepon, dan handphone); serta data jumlah karyawan dan anggota keluarganya."
+  },
+  {
+    "id": "44",
+    "question": "Berapa besaran iuran untuk Peserta PBPU (Pekerja Bukan Penerima Upah), mandiri, atau perseorangan?",
+    "answer": "Iuran Peserta PBPU/Mandiri/Perseorangan dibayarkan oleh peserta atau pihak lain atas nama peserta, dengan besaran berdasarkan kelas rawat: Kelas I sebesar Rp150.000 per orang per bulan, Kelas II sebesar Rp100.000 per orang per bulan, dan Kelas III sebesar Rp42.000 per orang per bulan."
+  },
+  {
+    "id": "45",
+    "question": "Apakah pendaftaran PPU bisa dilakukan online?",
+    "answer": "Ya, pendaftaran Peserta Pekerja Penerima Upah (PPU) dapat dilakukan secara online melalui website BPJS Kesehatan, portal BPJS, sistem OSS, atau aplikasi Edabu Mobile."
+  },
+  {
+    "id": "46",
+    "question": "Apa yang harus disiapkan badan usaha saat mendaftar ke BPJS Kesehatan?",
+    "answer": "Badan usaha harus menyiapkan data perusahaan (nama, alamat, kontak), dokumen legal seperti SIUP, STDP, NPWP, data kontak person, serta jumlah karyawan dan keluarganya untuk pendaftaran ke Program Jaminan Kesehatan Nasional (JKN)."
+  },
+  {
+    "id": "47",
+    "question": "Bagaimana cara mendaftar menjadi Peserta PBPU atau BP Non Penyelenggara Negara?",
+    "answer": "Untuk mendaftar sebagai Peserta PBPU/BP Non Penyelenggara Negara, calon peserta perlu menyiapkan: Kartu Keluarga, buku tabungan dari bank yang mendukung autodebit (BRI, Mandiri, BNI, BTN, BCA, Bank Jateng, atau Bank Panin), serta formulir surat kuasa autodebit bermaterai Rp10.000 yang ditandatangani oleh pemilik rekening (walaupun peserta bukan pemilik rekening). Warga Negara Asing juga harus menunjukkan paspor dan surat izin kerja dari instansi berwenang. Pembayaran iuran pertama harus dilakukan paling cepat 14 hari dan paling lambat 30 hari setelah pendaftaran."
+  },
+  {
+    "id": "48",
+    "question": "Bagaimana cara mendaftar menjadi Peserta PPU Penyelenggara Negara?",
+    "answer": "Pendaftaran Peserta PPU Penyelenggara Negara dapat dilakukan secara perorangan atau kolektif. Jika perorangan, syaratnya meliputi: Kartu Keluarga, SK penetapan pertama, SK kepegawaian terakhir, daftar gaji yang dilegalisasi, surat penetapan pengadilan untuk anak angkat (jika perlu), dan surat keterangan dari sekolah untuk anak usia 21–25 tahun. Jika secara kolektif, pendaftaran dilakukan oleh PIC satuan kerja melalui sistem migrasi menggunakan FDIPE. Khusus Kepala Desa dan perangkat desa, pendaftaran dilakukan secara kolektif oleh penanggung jawab Pemerintah Daerah melalui sistem BPJS Kesehatan."
+  },
+  {
+    "id": "49",
+    "question": "Bagaimana cara mendaftar menjadi Peserta PBI APBD?",
+    "answer": "Peserta PBI APBD didaftarkan melalui pendataan oleh Pemerintah Daerah, kemudian diserahkan ke BPJS Kesehatan sesuai perjanjian kerja sama antara Pemerintah Kabupaten/Kota dengan BPJS Kesehatan. Pendaftaran tidak dilakukan secara mandiri oleh individu."
+  },
+  {
+    "id": "50",
+    "question": "Bagaimana cara mendaftar menjadi Peserta PBI APBN?",
+    "answer": "Peserta PBI APBN didaftarkan melalui pendataan oleh Kementerian Sosial atau Dinas Sosial Kabupaten/Kota. Nama peserta kemudian ditetapkan melalui Keputusan Menteri Sosial dan didaftarkan oleh Kementerian Kesehatan kepada BPJS Kesehatan. Proses ini tidak dilakukan secara mandiri oleh peserta."
+  },
+  {
+    "id": "51",
+    "question": "Apa saja kriteria pekerja yang terkena PHK namun tidak mendapat manfaat jaminan kesehatan selama 6 bulan?",
+    "answer": "Pekerja yang terkena PHK tetapi **tidak berhak** atas jaminan kesehatan gratis selama 6 bulan adalah mereka yang: meninggal dunia, kontrak kerja habis, mengundurkan diri, mangkir (tidak masuk tanpa alasan), pensiun, atau dipecat atas dasar kesepakatan bersama dengan pemberi kerja."
+  }
+]
