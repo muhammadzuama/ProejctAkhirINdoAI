@@ -23,7 +23,7 @@ def load_documents():
 # --- 2. Inisialisasi model embedding
 @st.cache_resource
 def get_embedding_model():
-    return HuggingFaceEmbeddings(model_name="/Users/muhammadzuamaalamin/Documents/fintunellm/model/bge-m3")
+    return HuggingFaceEmbeddings(model_name="BAAI/bge-m3")
 
 # --- 3. Inisialisasi FAISS
 @st.cache_resource
@@ -122,3 +122,14 @@ if prompt := st.chat_input("Tanyakan seputar BPJS Kesehatan..."):
                 error_msg = f"Maaf, terjadi kesalahan: {str(e)}"
                 st.error(error_msg)
                 st.session_state.messages.append({"role": "assistant", "content": error_msg})
+                
+# --- Footer
+st.markdown(
+    """
+    <hr style="margin-top:30px; margin-bottom:10px;">
+    <div style="text-align: center; font-size: 13px; color: gray;">
+        © 2025 Tim Genesis — Muhammad Zuama Al Amin & Juan Hendy Irmanto
+    </div>
+    """,
+    unsafe_allow_html=True
+)
