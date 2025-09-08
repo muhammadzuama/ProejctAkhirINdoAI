@@ -66,14 +66,47 @@ Format JSON:
 
 ## 📌 3. Model Embedding
 
-Gunakan model embedding **BGE-M3** dari HuggingFace.
+Chatbot ini menggunakan **BGE-M3** sebagai model embedding (sumber: [HuggingFace – BAAI/bge-m3](https://huggingface.co/BAAI/bge-m3)).
+
+### 🔹 Opsi 1 – Offline (Wajib Download Model)
+
+Jika ingin chatbot berjalan **sepenuhnya offline** (tanpa internet), kamu harus mengunduh model embedding secara manual:
 
 ```bash
 git lfs install
 git clone https://huggingface.co/BAAI/bge-m3
 ```
 
-Lalu arahkan path di kode ke folder model hasil clone.
+* Ukuran model: **\~1.34 GB**
+* Setelah selesai, akan ada folder `bge-m3` berisi file model (`pytorch_model.bin`, `config.json`, dll).
+* Di dalam kode, arahkan path ke folder model lokal, misalnya:
+
+```python
+embeddings = HuggingFaceEmbeddings(model_name="path/to/bge-m3")
+```
+
+> Catatan: pastikan `git-lfs` sudah terpasang agar file model bisa diunduh dengan benar.
+
+---
+
+### 🔹 Opsi 2 – Online (Model Diunduh Otomatis)
+
+Jika dijalankan **online** dengan internet aktif, HuggingFace akan otomatis mengunduh model saat pertama kali dipanggil:
+
+```python
+embeddings = HuggingFaceEmbeddings(model_name="BAAI/bge-m3")
+```
+
+* File model akan tersimpan di cache HuggingFace lokal (biasanya di `~/.cache/huggingface/transformers`).
+* Tidak perlu clone manual, tapi membutuhkan koneksi internet stabil.
+
+---
+
+👉 Jadi, pilihannya:
+
+* **Offline mode** → download model manual, besar file ± **1.34 GB**, lalu arahkan path ke folder lokal.
+* **Online mode** → cukup panggil nama model `"BAAI/bge-m3"`, akan otomatis terunduh saat pertama kali digunakan.
+
 
 ---
 
