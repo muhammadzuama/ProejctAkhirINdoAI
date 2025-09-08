@@ -1,8 +1,5 @@
 1. **Mode Online (Streamlit, berbasis web UI)**
 2. **Mode Offline (PyQt5, aplikasi desktop GUI)**
-
-Jadi kamu bisa pilih jalankan chatbot di browser atau sebagai aplikasi desktop.
-
 ---
 
 # 📄 Dokumentasi Menjalankan Chatbot BPJS Kesehatan
